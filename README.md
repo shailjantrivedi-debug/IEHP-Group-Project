@@ -1,2 +1,2 @@
 # IEHP-Group-Project
- An analysis of provincial Hospital Standardized Mortality Ratios (HSMR) across Canada from 2020–2025, uncovering regional disparities in hospital mortality trends during and after the COVID-19 pandemic. Built to drive evidence-based recommendations for improving patient safety and healthcare equity nationwide.
+ This project analyzes Hospital Standardized Mortality Ratio (HSMR) trends across Canadian provinces from 2020–2025, examining how COVID-19 disrupted hospital mortality rates and why some provinces recovered faster than others. By comparing mortality patterns across age, sex, and diagnostic groups, the study translates data into targeted recommendations to reduce preventable deaths and improve healthcare equity across Canada.
